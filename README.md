@@ -40,7 +40,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@pattanaikay] - feel free to contact me!
+Created by Shresht Kashyap [@Sk1499]
 
 
 <!-- Optional -->
